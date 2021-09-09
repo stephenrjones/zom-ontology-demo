@@ -7,6 +7,7 @@
 <https://editor.zazuko.com/domain/> <http://schema.org/hasPart> <https://editor.zazuko.com/domain/RailDomain> .
 <https://editor.zazuko.com/domain/> <http://schema.org/hasPart> <https://editor.zazuko.com/domain/ShippersDomain> .
 <https://editor.zazuko.com/domain/> <http://schema.org/hasPart> <https://editor.zazuko.com/domain/TruckersDomain> .
+<https://editor.zazuko.com/domain/> <http://schema.org/hasPart> <https://editor.zazuko.com/domain/PidgeonDomain> .
 <https://editor.zazuko.com/domain/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <https://editor.zazuko.com/domain/> <http://www.w3.org/2000/01/rdf-schema#label> "Domains" .
 <https://editor.zazuko.com/domain/CargoHandlersDomain> <http://purl.org/dc/terms/modified> "2017-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
@@ -79,6 +80,10 @@
 <https://editor.zazuko.com/domain/TruckersDomain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <https://editor.zazuko.com/domain/TruckersDomain> <http://www.w3.org/2000/01/rdf-schema#comment> "A domain is an entity we use to logically group data elements together for the role in the logistics chain that predominantly would provide the data.  It is intended to enably a quick access to schema needed. For the Trucker Domain, you will find data typically from the following documents; TBD." .
 <https://editor.zazuko.com/domain/TruckersDomain> <http://www.w3.org/2000/01/rdf-schema#label> "Truckers Domain" .
+<https://editor.zazuko.com/domain/PidgeonDomain> <http://purl.org/dc/terms/modified> "2021-09-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://editor.zazuko.com/domain/PidgeonDomain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://editor.zazuko.com/domain/PidgeonDomain> <http://www.w3.org/2000/01/rdf-schema#comment> " Anything traveling by pidgeon post" .
+<https://editor.zazuko.com/domain/PidgeonDomain> <http://www.w3.org/2000/01/rdf-schema#label> "Pidgeon Domain" .
 <https://editor.zazuko.com/updates/> <http://schema.org/hasPart> <https://editor.zazuko.com/domain/StatusUpdateDomain> .
 <https://editor.zazuko.com/updates/> <http://schema.org/hasPart> <https://editor.zazuko.com/domain/TrackUpdateDomain> .
 <https://editor.zazuko.com/updates/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
