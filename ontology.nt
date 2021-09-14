@@ -353,10 +353,10 @@
 <https://editor.zazuko.com/schema/packageType> <http://www.w3.org/2000/01/rdf-schema#label> "PackageType" .
 <https://editor.zazuko.com/schema/pickupFrom> <http://schema.org/rangeIncludes> <http://schema.org/Organization> .
 <https://editor.zazuko.com/schema/pickupFrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<https://editor.zazuko.com/schema/PidgeonClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<https://editor.zazuko.com/schema/PidgeonClass> <http://www.w3.org/2000/01/rdf-schema#comment> "Carrier pidgeons" .
-<https://editor.zazuko.com/schema/PidgeonClass> <http://www.w3.org/2000/01/rdf-schema#label> "PidgeonClass" .
-<https://editor.zazuko.com/schema/PidgeonClass> <http://www.w3.org/2004/02/skos/core#example> "<https://editor.zazuko.com/schema/PidgeonClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>" .
+<https://editor.zazuko.com/schema/Pidgeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<https://editor.zazuko.com/schema/Pidgeon> <http://www.w3.org/2000/01/rdf-schema#comment> "Carrier pidgeons" .
+<https://editor.zazuko.com/schema/Pidgeon> <http://www.w3.org/2000/01/rdf-schema#label> "Pidgeon" .
+<https://editor.zazuko.com/schema/Pidgeon> <http://www.w3.org/2004/02/skos/core#example> "<https://editor.zazuko.com/schema/Pidgeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class>" .
 <https://editor.zazuko.com/schema/Port> <http://purl.org/dc/terms/modified> "2018-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://editor.zazuko.com/schema/Port> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <https://editor.zazuko.com/schema/Port> <http://www.w3.org/2000/01/rdf-schema#comment> "Any port, terminal, offshore terminal, ship and repair yard or roadstead which is normally used for the loading, unloading, repair and anchoring of ships, or any other place at which a ship can call. The word also embraces, geographically, the city or borough which serves shipping interests." .
